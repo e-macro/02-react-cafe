@@ -1,7 +1,7 @@
 
 // import clsx from  'clsx'
 import { useState } from 'react'
-import type { VoteType, Votes } from '../../types/Votes';
+import type { VoteType, Votes } from '../../types/votes'
 import CafeInfo from '../CafeInfo/CafeInfo'
 import VoteOptions from '../VoteOptions/VoteOptions';
 import VoteStats from '../VoteStats/VoteStats';
